@@ -13,4 +13,4 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "Vidnoz IA" foi 
 ## 🚀 Resultados
 O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://github.com/Wallace-Guimaraes/lab-natty-or-not/blob/main/exemplos/Projeto_NattyOrNot.mp4)
